@@ -1,0 +1,6 @@
+{
+  "name": "Cabinet Dentaire Lumina",
+  "description": "Plateforme moderne de prise de rendez-vous en ligne chez le chirurgien-dentiste, gestion des soins et urgences dentaires.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
